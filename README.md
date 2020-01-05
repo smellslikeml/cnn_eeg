@@ -11,6 +11,9 @@ This project is a revistiation of the [American Epilepsy Society Seizure Predict
 - usb power bank
 - NeuroSky Mindwave Mobile 2
 
+![cnn4eeg](cnn4eeg_schematic.jpg)
+
+
 ## Software
 - Tensorflow (>1.11.0)
 - numpy
