@@ -1,7 +1,7 @@
 # Deep Learning for Seizure Prediction Wearable
 EEG wearable device using CNN for seizure prediction. This prototype uses a NeuroSky Mindwave Mobile EEG headset communicating with a raspberry pi zero via bluetooth for seizure prediction.
 
-![cnn4eeg](cnn4eeg.gif)
+![cnn4eeg](assets/cnn4eeg.gif)
 
 This project is a revistiation of the [American Epilepsy Society Seizure Prediction Challenge](https://www.kaggle.com/c/seizure-prediction) to make seizure prediction on an embedded device a reality. 
 
@@ -11,7 +11,7 @@ This project is a revistiation of the [American Epilepsy Society Seizure Predict
 - usb power bank
 - NeuroSky Mindwave Mobile 2
 
-![cnn4eeg](cnn4eeg_schematic.jpg)
+![cnn4eeg](assets/cnn4eeg_schematic.jpg)
 
 
 ## Software
